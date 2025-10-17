@@ -1,6 +1,8 @@
 package bf;
 
-import bf.Token;
+import bf.core.Error;
+import bf.core.IOType;
+import bf.core.InfoError;
 import haxe.ds.IntMap;
 import haxe.io.Bytes;
 

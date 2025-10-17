@@ -1,4 +1,4 @@
-package bf;
+package bf.core;
 
 /**
  * Base error type for Brainfuck-related exceptions.

@@ -1,4 +1,4 @@
-package bf;
+package bf.core;
 
 /**
  * Error type that includes line and column info.

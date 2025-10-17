@@ -1,4 +1,4 @@
-package bf;
+package bf.core;
 
 /**
  * Represents the type of input/output the Brainfuck interpreter uses.
