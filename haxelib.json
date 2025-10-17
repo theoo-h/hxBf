@@ -1,0 +1,10 @@
+{
+    "name": "hxBf",
+    "url": "https://github.com/theoo-h/hxBf",
+    "license": "MIT",
+    "tags": ["Interpreter", "brainfuck"],
+    "description": "A simple to use Brainfuck Interpreter.",
+    "version": "1.0.0",
+    "releasenote": "",
+    "contributors": ["theo"]
+}
